@@ -1,0 +1,12 @@
+DB NAME:
+tekl
+
+USER
+tekl
+
+PASS
+100%tekl
+
+WP----
+USER: tekl	
+PASS: mK@e(U^K78c@eylC7!
