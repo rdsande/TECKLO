@@ -2690,7 +2690,7 @@ ob_start();
 					<?php if ($compact !='') :?>
 					    <div class="text_in_thumb">
 					    	<?php echo ''.$category_echo ;?>
-					    	<h2><a href="<?php the_permalink();?>"><?php echo wp_trim_words( get_the_title($post->ID), 4, '...' );?></a></h2>
+					    	<h2><a href="<?php the_permalink();?>"><?php the_title();?></a></h2>
 					    	<div class="post-meta"> <?php meta_small( true, false, true ); ?> </div>                            
 					    </div>
 					<?php else :?>

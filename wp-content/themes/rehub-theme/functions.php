@@ -1650,3 +1650,12 @@ function rehub_nag_ignore() {
         add_user_meta($user_id, 'ignore_notices_rehub90', 'true', true);           
 	}
 }
+//  ADDING TITLE
+function max_title_length( $title ) {
+$max = 30;
+if( strlen( $title ) > $max ) {
+return substr( $title, 0, $max ). " &hellip;";
+} else {
+return $title;
+}
+}
