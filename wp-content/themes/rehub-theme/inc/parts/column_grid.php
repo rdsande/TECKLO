@@ -40,7 +40,7 @@ if(rehub_option('enable_brand_taxonomy') == 1){
     <?php do_action( 'rehub_after_grid_column_figure' ); ?>
     <div class="content_constructor pb10 pr20 pl20 tekl-title-box-1">
         <div class="mb5"><?php rehub_format_score('small') ?></div> 
-        <h2 class="mb15 mt0 font130 mobfont100 fontbold lineheight30"><a href="<?php echo ''.$link;?>"<?php echo ''.$target;?>><?php the_title();?></a></h2>
+        <h2 class="mb15 mt0 font130 mobfont100 fontbold lineheight30 font-size-one"><a href="<?php echo ''.$link;?>"<?php echo ''.$target;?>><?php the_title();?></a></h2>
         <?php $custom_notice = get_post_meta($post->ID, '_notice_custom', true);?>
         <?php 
             if($custom_notice){

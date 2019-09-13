@@ -1,0 +1,1790 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Youtube Video Gallery - Youtube Channel Plugin For "
+"Wordpress\n"
+"POT-Creation-Date: 2018-12-17 10:55+0700\n"
+"PO-Revision-Date: 2018-12-17 10:55+0700\n"
+"Last-Translator: \n"
+"Language-Team: BeeTeam368 <support@beeteam368.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e;esc_attr__;esc_attr_e\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/plugin-settings/plugin-settings.php:12
+msgid "YOUTUBE VIDEO GALLERY SETTINGS"
+msgstr ""
+
+#: includes/plugin-settings/plugin-settings.php:23
+msgid "Enabled RTL"
+msgstr ""
+
+#: includes/plugin-settings/plugin-settings.php:26
+#: includes/plugin-settings/plugin-settings.php:39
+msgid "NO"
+msgstr ""
+
+#: includes/plugin-settings/plugin-settings.php:27
+#: includes/plugin-settings/plugin-settings.php:40
+msgid "YES"
+msgstr ""
+
+#: includes/plugin-settings/plugin-settings.php:32
+msgid "Google API Key"
+msgstr ""
+
+#: includes/plugin-settings/plugin-settings.php:36
+msgid "Enabled Console Debug"
+msgstr ""
+
+#: includes/plugin-settings/plugin-settings.php:47
+msgid "SAMPLE DATA"
+msgstr ""
+
+#: includes/plugin-settings/plugin-settings.php:48
+msgid "Import Sampe Data ( Click Me )"
+msgstr ""
+
+#: includes/plugin-settings/plugin-settings.php:52
+msgid "Congratulation! Process Input success."
+msgstr ""
+
+#: includes/plugin-settings/plugin-settings.php:54
+msgid "The process input data is corrupted, please redo!"
+msgstr ""
+
+#: includes/plugin-settings/plugin-settings.php:57
+msgid ""
+"The process of data entry is underway. Please wait a few minutes and not "
+"close the browser..."
+msgstr ""
+
+#: includes/plugin-settings/plugin-settings.php:66
+msgid "Youtube Gallery Settings"
+msgstr ""
+
+#: includes/reg-shortcode/reg-shortcode.php:430 includes/reg-vc/reg-vc.php:1537
+msgid "Comments"
+msgstr ""
+
+#: includes/reg-shortcode/reg-shortcode.php:431 includes/reg-vc/reg-vc.php:1544
+msgid "Likes"
+msgstr ""
+
+#: includes/reg-shortcode/reg-shortcode.php:432 includes/reg-vc/reg-vc.php:1551
+msgid "Dislikes"
+msgstr ""
+
+#: includes/reg-shortcode/reg-shortcode.php:433 includes/reg-vc/reg-vc.php:1558
+msgid "LOAD MORE"
+msgstr ""
+
+#: includes/reg-shortcode/reg-shortcode.php:434 includes/reg-vc/reg-vc.php:1565
+msgid "PREV"
+msgstr ""
+
+#: includes/reg-shortcode/reg-shortcode.php:435 includes/reg-vc/reg-vc.php:1572
+msgid "NEXT"
+msgstr ""
+
+#: includes/reg-shortcode/reg-shortcode.php:436 includes/reg-vc/reg-vc.php:1579
+msgid "ALL VIDEOS ARE ALREADY LOADED!"
+msgstr ""
+
+#: includes/reg-shortcode/reg-shortcode.php:437 includes/reg-vc/reg-vc.php:1586
+msgid "SHOW MORE"
+msgstr ""
+
+#: includes/reg-shortcode/reg-shortcode.php:438 includes/reg-vc/reg-vc.php:1593
+msgid "SHOW LESS"
+msgstr ""
+
+#: includes/reg-shortcode/reg-shortcode.php:439 includes/reg-vc/reg-vc.php:1600
+msgid "Published at"
+msgstr ""
+
+#: includes/reg-shortcode/reg-shortcode.php:440 includes/reg-vc/reg-vc.php:1607
+msgid "View all replies"
+msgstr ""
+
+#: includes/reg-shortcode/reg-shortcode.php:441 includes/reg-vc/reg-vc.php:1614
+msgid "Loading advertisement..."
+msgstr ""
+
+#: includes/reg-shortcode/reg-shortcode.php:442 includes/reg-vc/reg-vc.php:1621
+msgid "Skip ad in"
+msgstr ""
+
+#: includes/reg-shortcode/reg-shortcode.php:443 includes/reg-vc/reg-vc.php:1628
+msgid "Skip Ad"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:6
+msgid "BeeTeam368"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:7
+msgid "Data Source"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:8 includes/reg-vc/reg-vc.php:230
+msgid "Layout"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:9
+msgid "Carousel"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:10 includes/reg-vc/reg-vc.php:1229
+msgid "Video"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:11
+msgid "Video Popup"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:12
+msgid "Video Inline"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:13
+msgid "Header"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:14
+msgid "Static Text"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:15
+msgid "Color"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:16
+msgid "Typography"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:19 includes/reg-vc/reg-vc.php:147
+#: includes/reg-vc/reg-vc.php:160 includes/reg-vc/reg-vc.php:167
+#: includes/reg-vc/reg-vc.php:652
+msgid "Default"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:20
+msgid "1 Column"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:21
+msgid "2 Columns"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:22
+msgid "3 Columns"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:23
+msgid "4 Columns"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:24
+msgid "5 Columns"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:25
+msgid "6 Columns"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:26
+msgid "7 Columns"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:27
+msgid "8 Columns"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:28
+msgid "9 Columns"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:29
+msgid "10 Columns"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:30
+msgid "11 Columns"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:31
+msgid "12 Columns"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:35
+msgid "English (United States)"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:36
+msgid "English (Australia)"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:37
+msgid "English (Canada)"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:38
+msgid "English (Ireland)"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:39
+msgid "English (New Zealand)"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:40
+msgid "English (United Kingdom)"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:41
+msgid "Afrikaans"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:42
+msgid "Albanian"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:43
+msgid "Arabic"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:44
+msgid "Arabic (Algeria)"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:45
+msgid "Arabic (Lybia)"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:46
+msgid "Arabic (Morocco)"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:47
+msgid "Arabic (Saudi Arabia)"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:48
+msgid "Arabic (Tunisia)"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:49
+msgid "Armenian"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:50
+msgid "Azerbaijani"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:51
+msgid "Basque"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:52
+msgid "Belarusian"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:53
+msgid "Bengali"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:54
+msgid "Bosnian"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:55
+msgid "Breton"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:56
+msgid "Bulgarian"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:57
+msgid "Burmese"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:58
+msgid "Cambodian"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:59
+msgid "Catalan"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:60
+msgid "Central Atlas Tamazight"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:61
+msgid "Central Atlas Tamazight Latin"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:62
+msgid "Chinese (China)"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:63
+msgid "Chinese (Hong Kong)"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:64
+msgid "Chinese (Taiwan)"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:65
+msgid "Chuvash"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:66
+msgid "Croatian"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:67
+msgid "Czech"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:68
+msgid "Danish"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:69
+msgid "Dutch"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:70
+msgid "Dutch (Belgium)"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:71
+msgid "Esperanto"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:72
+msgid "Estonian"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:73
+msgid "Faroese"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:74
+msgid "Finnish"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:75
+msgid "French"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:76
+msgid "French (Canada)"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:77
+msgid "French (Switzerland)"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:78
+msgid "Frisian"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:79
+msgid "Galician"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:80
+msgid "Georgian"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:81
+msgid "German"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:82
+msgid "German (Austria)"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:83
+msgid "Greek"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:84
+msgid "Hebrew"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:85
+msgid "Hindi"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:86
+msgid "Hungarian"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:87
+msgid "Icelandic"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:88
+msgid "Indonesian"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:89
+msgid "Italian"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:90
+msgid "Japanese"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:91
+msgid "Javanese"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:92
+msgid "Kazakh"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:93
+msgid "Klingon"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:94
+msgid "Korean"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:95
+msgid "Kyrgyz"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:96
+msgid "Lao"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:97
+msgid "Latvian"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:98
+msgid "Lithuanian"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:99
+msgid "Luxembourgish"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:100
+msgid "Macedonian"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:101 includes/reg-vc/reg-vc.php:102
+msgid "Malay"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:103
+msgid "Malayalam"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:104
+msgid "Maldivian"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:105
+msgid "Maori"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:106
+msgid "Marathi"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:107
+msgid "Montenegrin"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:108
+msgid "Nepalese"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:109
+msgid "Northern Sami"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:110
+msgid "Norwegian Bokmål"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:111
+msgid "Nynorsk"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:112
+msgid "Persian"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:113
+msgid "Polish"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:114
+msgid "Portuguese"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:115
+msgid "Portuguese (Brazil)"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:116
+msgid "Pseudo"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:117
+msgid "Punjabi (India)"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:118
+msgid "Romanian"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:119
+msgid "Russian"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:120
+msgid "Scottish Gaelic"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:121
+msgid "Serbian"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:122
+msgid "Serbian Cyrillic"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:123
+msgid "Sinhalese"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:124
+msgid "Slovak"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:125
+msgid "Slovenian"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:126
+msgid "Spanish"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:127
+msgid "Spanish (Dominican Republic)"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:128
+msgid "Swahili"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:129
+msgid "Swedish"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:130
+msgid "Tagalog (Philippines)"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:131
+msgid "Talossan"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:132
+msgid "Tamil"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:133
+msgid "Telugu"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:134
+msgid "Tetun Dili (East Timor)"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:135
+msgid "Thai"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:136
+msgid "Tibetan"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:137
+msgid "Turkish"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:138
+msgid "Ukrainian"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:139
+msgid "Uzbek"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:140
+msgid "Vietnamese"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:141
+msgid "Welsh"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:142
+msgid "Yoruba Nigeria"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:143
+msgid "siSwati"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:148 includes/reg-vc/reg-vc.php:161
+msgid "Normal"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:149
+msgid "Bold"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:150
+msgid "100"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:151
+msgid "300"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:152
+msgid "400"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:153
+msgid "500"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:154
+msgid "600"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:155
+msgid "700"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:156
+msgid "800"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:157
+msgid "900"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:162
+msgid "Italic"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:163
+msgid "Oblique"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:168
+msgid "Uppercase"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:169
+msgid "Lowercase"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:170
+msgid "Capitalize"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:171 includes/reg-vc/reg-vc.php:1122
+#: includes/reg-vc/reg-vc.php:1314 includes/reg-vc/reg-vc.php:1433
+msgid "None"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:176
+msgid "Youtube Video Gallery"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:185
+msgid "Data Source Groups"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:187
+msgid ""
+"Custom groups of videos from YouTube source (support: channels, playlists, "
+"videos)."
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:191
+msgid "Group name"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:196
+msgid "Group Sources"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:199
+msgid ""
+"Paste your [channels, playlists or videos] urls to here. Enter one url per "
+"line (Each url on a new row).\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<br><br><strong>For Example:</strong>\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<br>https://www.youtube.com/user/"
+"Battlefield\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<br>https://www.youtube.com/channel/"
+"UCoDcFZ5KZ0KwBC_omalJuiA\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<br>https://www.youtube.com/playlist?"
+"list=PLZeek85Kuka2o8JkicDxLOh47frrPi10X\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<br>https://www.youtube.com/watch?v=aeCmlH_-"
+"rWg"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:217
+msgid "Show Groups (Tabs)"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:220 includes/reg-vc/reg-vc.php:516
+#: includes/reg-vc/reg-vc.php:526 includes/reg-vc/reg-vc.php:536
+#: includes/reg-vc/reg-vc.php:562 includes/reg-vc/reg-vc.php:572
+#: includes/reg-vc/reg-vc.php:582 includes/reg-vc/reg-vc.php:592
+#: includes/reg-vc/reg-vc.php:602 includes/reg-vc/reg-vc.php:612
+#: includes/reg-vc/reg-vc.php:622 includes/reg-vc/reg-vc.php:635
+#: includes/reg-vc/reg-vc.php:661 includes/reg-vc/reg-vc.php:671
+#: includes/reg-vc/reg-vc.php:681 includes/reg-vc/reg-vc.php:691
+#: includes/reg-vc/reg-vc.php:701 includes/reg-vc/reg-vc.php:711
+#: includes/reg-vc/reg-vc.php:721 includes/reg-vc/reg-vc.php:758
+#: includes/reg-vc/reg-vc.php:784 includes/reg-vc/reg-vc.php:794
+#: includes/reg-vc/reg-vc.php:804 includes/reg-vc/reg-vc.php:814
+#: includes/reg-vc/reg-vc.php:824 includes/reg-vc/reg-vc.php:834
+#: includes/reg-vc/reg-vc.php:844 includes/reg-vc/reg-vc.php:854
+#: includes/reg-vc/reg-vc.php:864 includes/reg-vc/reg-vc.php:874
+#: includes/reg-vc/reg-vc.php:884 includes/reg-vc/reg-vc.php:894
+#: includes/reg-vc/reg-vc.php:904 includes/reg-vc/reg-vc.php:914
+#: includes/reg-vc/reg-vc.php:928 includes/reg-vc/reg-vc.php:942
+#: includes/reg-vc/reg-vc.php:957 includes/reg-vc/reg-vc.php:971
+#: includes/reg-vc/reg-vc.php:985 includes/reg-vc/reg-vc.php:999
+#: includes/reg-vc/reg-vc.php:1012 includes/reg-vc/reg-vc.php:1027
+#: includes/reg-vc/reg-vc.php:1218 includes/reg-vc/reg-vc.php:1501
+#: includes/reg-vc/reg-vc.php:1511
+msgid "Yes"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:221 includes/reg-vc/reg-vc.php:517
+#: includes/reg-vc/reg-vc.php:527 includes/reg-vc/reg-vc.php:537
+#: includes/reg-vc/reg-vc.php:563 includes/reg-vc/reg-vc.php:573
+#: includes/reg-vc/reg-vc.php:583 includes/reg-vc/reg-vc.php:593
+#: includes/reg-vc/reg-vc.php:603 includes/reg-vc/reg-vc.php:613
+#: includes/reg-vc/reg-vc.php:623 includes/reg-vc/reg-vc.php:634
+#: includes/reg-vc/reg-vc.php:662 includes/reg-vc/reg-vc.php:672
+#: includes/reg-vc/reg-vc.php:682 includes/reg-vc/reg-vc.php:692
+#: includes/reg-vc/reg-vc.php:702 includes/reg-vc/reg-vc.php:712
+#: includes/reg-vc/reg-vc.php:722 includes/reg-vc/reg-vc.php:759
+#: includes/reg-vc/reg-vc.php:785 includes/reg-vc/reg-vc.php:795
+#: includes/reg-vc/reg-vc.php:805 includes/reg-vc/reg-vc.php:815
+#: includes/reg-vc/reg-vc.php:825 includes/reg-vc/reg-vc.php:835
+#: includes/reg-vc/reg-vc.php:845 includes/reg-vc/reg-vc.php:855
+#: includes/reg-vc/reg-vc.php:865 includes/reg-vc/reg-vc.php:875
+#: includes/reg-vc/reg-vc.php:885 includes/reg-vc/reg-vc.php:895
+#: includes/reg-vc/reg-vc.php:905 includes/reg-vc/reg-vc.php:915
+#: includes/reg-vc/reg-vc.php:929 includes/reg-vc/reg-vc.php:943
+#: includes/reg-vc/reg-vc.php:956 includes/reg-vc/reg-vc.php:970
+#: includes/reg-vc/reg-vc.php:984 includes/reg-vc/reg-vc.php:998
+#: includes/reg-vc/reg-vc.php:1013 includes/reg-vc/reg-vc.php:1026
+#: includes/reg-vc/reg-vc.php:1217 includes/reg-vc/reg-vc.php:1502
+#: includes/reg-vc/reg-vc.php:1512
+msgid "No"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:223
+msgid "Show/Hide Tabs of data source groups in frontend."
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:233
+msgid "GRID"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:234
+msgid "LIST"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:235
+msgid "CAROUSEL"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:237
+msgid "Choose the layout for gallery."
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:242
+msgid "GRID STYLE"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:245 includes/reg-vc/reg-vc.php:274
+msgid "CLASSIC"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:246 includes/reg-vc/reg-vc.php:261
+#: includes/reg-vc/reg-vc.php:275
+msgid "SPECIAL"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:256
+msgid "LIST STYLE"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:259
+msgid "CLASSIC 1"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:260
+msgid "CLASSIC 2"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:271
+msgid "CAROUSEL STYLE"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:287 includes/reg-vc/reg-vc.php:360
+msgid "Distance between slides (in px)"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:289 includes/reg-vc/reg-vc.php:362
+msgid "If blank, defaults to: 20"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:298
+msgid "Speed (in millisecond)"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:300
+msgid ""
+"Duration of transition between slides (in ms). If blank, defaults to: 600"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:309
+msgid "Autoplay (in millisecond)"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:311
+msgid ""
+"Delay between transitions (in ms). If this parameter is not specified, auto "
+"play will be disabled."
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:320
+msgid "Columns (default)"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:322
+msgid ""
+"The maximum value, before entering the smaller screen - If blank, defaults "
+"to: 1"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:331
+msgid "Rows (default)"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:333 includes/reg-vc/reg-vc.php:356
+msgid "If blank, defaults to: 1"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:342
+msgid "Responsive breakpoints"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:344
+msgid ""
+"Most often these are the smart phone (usually the iPhone at 320px and "
+"480px), \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tthe tablet (usually the iPad at 768px and "
+"1024px) and finally anything above 1024px."
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:349
+msgid "Window Width (in px)"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:354
+msgid "Columns"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:375
+msgid "Items per page"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:377
+msgid ""
+"Number of items to show per page (Maximum is: 50). If blank, defaults to: 10"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:386
+msgid "Pagination"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:388
+msgid "Work with Layout Styles: GRID, LIST."
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:390
+msgid "Infinite Scroll"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:391
+msgid "Load More Button"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:392
+msgid "Prev-Next Button"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:402
+msgid "Custom Columns - Mobiles (=0px and up)"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:404 includes/reg-vc/reg-vc.php:416
+#: includes/reg-vc/reg-vc.php:428 includes/reg-vc/reg-vc.php:440
+#: includes/reg-vc/reg-vc.php:452 includes/reg-vc/reg-vc.php:464
+#: includes/reg-vc/reg-vc.php:476
+msgid "Work with Layout Styles: GRID, CAROUSEL."
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:414
+msgid "Custom Columns - Portrait Tablets (=600px and up)"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:426
+msgid "Custom Columns - Landscape Tablets (=800px and up)"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:438
+msgid "Custom Columns - Small - Desktops (=1025px and up)"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:450
+msgid "Custom Columns - Medium - Desktops (=1366px and up)"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:462
+msgid "Custom Columns - Large - Desktops (=1600px and up)"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:474
+msgid "Custom Columns - Extra Large - Desktops (=1920px and up)"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:486
+msgid "Image Size"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:489
+msgid "High (480px * 360px)"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:490
+msgid "Default (120px * 90px)"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:491
+msgid "Medium (320px * 180px)"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:492
+msgid "Standard (640px * 480px)"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:493
+msgid "Maxres (1280px * 720px)"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:495
+msgid "You can use thumbnails in a variety of sizes on YouTube."
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:501
+msgid "Video Play Mode"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:504
+msgid "Popup"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:505
+msgid "Inline"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:506
+msgid "Youtube"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:508
+msgid ""
+"Choose the mode of watching videos: in popup, directly in the video gallery, "
+"or in a new browser tab right in YouTube."
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:513 includes/reg-vc/reg-vc.php:781
+msgid "Show Title"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:523
+msgid "Limit Title To One Line"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:533 includes/reg-vc/reg-vc.php:871
+msgid "Show Description"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:543
+msgid "Description Length"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:546
+msgid ""
+"Enter description length. Example: <code>100</code>, <code>150</code>, "
+"<code>55</code>... - . If blank, defaults to: 60"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:559
+msgid "Show Duration"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:569 includes/reg-vc/reg-vc.php:821
+msgid "Show Views Counter"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:579 includes/reg-vc/reg-vc.php:831
+msgid "Show Likes Counter"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:589 includes/reg-vc/reg-vc.php:841
+msgid "Show Dislikes Counter"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:599 includes/reg-vc/reg-vc.php:861
+msgid "Show Published Date"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:609
+msgid "Show Comments Counter"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:619
+msgid "Show Play Button"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:631
+msgid "Show Header"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:641
+msgid "Channel Source"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:643
+msgid ""
+"Paste your channel url to here. Example: https://www.youtube.com/user/"
+"Battlefield \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t(or) https://www.youtube.com/channel/"
+"UCoDcFZ5KZ0KwBC_omalJuiA"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:649
+msgid "Header Style"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:658
+msgid "Show Channel Logo"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:668 includes/reg-vc/reg-vc.php:801
+msgid "Show Channel Name"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:678
+msgid "Show Channel Description"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:688
+msgid "Show Channel Videos Counter"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:698
+msgid "Show Channel Subscribers Counter"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:708
+msgid "Show Channel Views Counter"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:718
+msgid "Show Channel Subscribe Button"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:728
+msgid "Custom Channel Name"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:734
+msgid "Custom channel description"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:740
+msgid "Custom Channel Logo"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:746
+msgid "Custom Channel Banner"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:755
+msgid "Autoplay"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:768
+msgid "Popup Width"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:771
+msgid ""
+"<strong>Example:</strong> <code>1000px</code>, <code>1200px</code> ... If "
+"blank, defaults to: <code>900px</code>"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:791
+msgid "Show Channel Profile Image"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:811
+msgid "Show Subscription Button"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:851
+msgid "Show Likes Ratio"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:881
+msgid "Show Description More Button"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:891
+msgid "Show Comments"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:901
+msgid "Social Share"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:911
+msgid "[Social Share] Facebook"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:925
+msgid "[Social Share] Twitter"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:939
+msgid "[Social Share] Google"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:953
+msgid "[Social Share] LinkedIn"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:967
+msgid "[Social Share] Tumblr"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:981
+msgid "[Social Share] Pinterest"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:995
+msgid "[Social Share] VK"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1009
+msgid "[Social Share] Email"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1023
+msgid "Popup Advertising"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1033
+msgid "Popup Ad Type And Format"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1036 includes/reg-vc/reg-vc.php:1227
+msgid "Google Adsense"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1037 includes/reg-vc/reg-vc.php:1099
+#: includes/reg-vc/reg-vc.php:1228 includes/reg-vc/reg-vc.php:1291
+msgid "Image"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1047
+msgid "Popup AdSense Ads Client ID"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1050
+msgid ""
+"If you want to display Adsense in Popup (Put Adsense Ads Between Post), "
+"enter Google AdSense Ad Client ID here.<br>\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\""
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1065
+msgid "Popup AdSense Ads Slot ID"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1068
+msgid ""
+"If you want to display Adsense in Popup (Put Adsense Ads Between Post), "
+"enter Google AdSense Ad Slot ID here.<br>\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\""
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1084
+msgid "[Popup Advertising] Image Ads Group"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1086 includes/reg-vc/reg-vc.php:1278
+#: includes/reg-vc/reg-vc.php:1407
+msgid ""
+"Ads will be randomly downloaded. Data depending on the group that you "
+"configured above"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1090 includes/reg-vc/reg-vc.php:1282
+msgid "Image Source"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1093 includes/reg-vc/reg-vc.php:1285
+msgid "Media Library"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1094 includes/reg-vc/reg-vc.php:1109
+#: includes/reg-vc/reg-vc.php:1286 includes/reg-vc/reg-vc.php:1301
+msgid "External Link"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1101 includes/reg-vc/reg-vc.php:1293
+msgid "Select image from media library."
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1111 includes/reg-vc/reg-vc.php:1303
+msgid "Enter external link."
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1119 includes/reg-vc/reg-vc.php:1311
+#: includes/reg-vc/reg-vc.php:1430
+msgid "On Click Action"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1123 includes/reg-vc/reg-vc.php:1315
+#: includes/reg-vc/reg-vc.php:1434
+msgid "Open Custom Link"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1128 includes/reg-vc/reg-vc.php:1320
+#: includes/reg-vc/reg-vc.php:1439
+msgid "Image Link"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1130 includes/reg-vc/reg-vc.php:1322
+#: includes/reg-vc/reg-vc.php:1441
+msgid "Enter URL if you want this image to have a link."
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1214
+msgid "Video Advertising"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1224
+msgid "Video Ad Type And Format"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1239
+msgid "Video Advertising - AdSense Ads Client ID"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1242
+msgid ""
+"If you want to display Adsense in Player (Put Adsense Ads Between Post), "
+"enter Google AdSense Ad Client ID here.<br>\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\""
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1257
+msgid "Video Advertising - AdSense Ads Slot ID"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1260
+msgid ""
+"If you want to display Adsense in Player (Put Adsense Ads Between Post), "
+"enter Google AdSense Ad Slot ID here.<br>\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\""
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1276
+msgid "[Video Advertising] Image Ads Group"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1405
+msgid "[Video Advertising] Video Ads Group"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1412
+msgid "Video Source (MP4)"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1414
+msgid "Enter your link Video (.mp4)."
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1418
+msgid "Video Source (WEBM)"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1420
+msgid "Enter your link Video (.webm)."
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1424
+msgid "Video Source (OGV)"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1426
+msgid "Enter your link Video (.ogv)."
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1457
+msgid "Ad shows up after (seconds)"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1460
+msgid ""
+"Example:<code>0,40,150,368</code>, <code>10,250,689</code>. If blank, "
+"defaults to: 0"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1473
+msgid "Skip Ad - Clickable After (seconds)"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1475
+msgid "If blank, defaults to: 5"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1484
+msgid "Hide Ad After (seconds)"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1486
+msgid "If blank, defaults to: 10"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1498
+msgid "Show Light Button"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1508
+msgid "Show Close Button"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1523
+msgid "Display date/time in locale"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1530
+msgid "Views"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1532
+msgid "If blank, defaults to: Views"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1539
+msgid "If blank, defaults to: Comments"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1546
+msgid "If blank, defaults to: Likes"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1553
+msgid "If blank, defaults to: Dislikes"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1560
+msgid "If blank, defaults to: LOAD MORE"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1567
+msgid "If blank, defaults to: PREV"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1574
+msgid "If blank, defaults to: NEXT"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1581
+msgid "If blank, defaults to: ALL VIDEOS ARE ALREADY LOADED!"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1588
+msgid "If blank, defaults to: SHOW MORE"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1595
+msgid "If blank, defaults to: SHOW LESS"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1602
+msgid "If blank, defaults to: Published at"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1609
+msgid "If blank, defaults to: View all replies"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1616
+msgid "If blank, defaults to: Loading advertisement..."
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1623
+msgid "If blank, defaults to: Skip ad in"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1630
+msgid "If blank, defaults to: Skip Ad"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1637
+msgid "Main Color"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1643
+msgid "Layout Background"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1649
+msgid "Section Background"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1655
+msgid "Item Background"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1661
+msgid "Divider Color"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1667
+msgid "Button Color"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1673
+msgid "Button Background Color"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1679
+msgid "Button Background Hover Color"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1685
+msgid "Tab Color"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1691
+msgid "Tab Hover Color"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1697
+msgid "Title Color"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1703
+msgid "Title Hover Color"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1709
+msgid "Text Color"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1715
+msgid "Meta Color"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1721
+msgid "Header Logo Boder Color"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1727
+msgid "Header Channel Name Color"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1733
+msgid "Header Channel Name Hover Color"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1739
+msgid "Header Text Color"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1745
+msgid "Header Meta Color"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1751
+msgid "Header Meta Background Color"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1757
+msgid "Popup Background"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1763
+msgid "Popup Button Color"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1769
+msgid "Popup Button Background Color"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1775
+msgid "Popup Button Background Hover Color"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1781
+msgid "Popup Heading Color"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1787
+msgid "Popup Heading Hover Color"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1793
+msgid "Popup Link Color"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1799
+msgid "Popup Link Hover Color"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1805
+msgid "Popup Text Color"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1811
+msgid "Popup Meta Color"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1817
+msgid "Popup Divider Color"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1826
+msgid "Main Font (Support Google font)"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1828 includes/reg-vc/reg-vc.php:1898
+#: includes/reg-vc/reg-vc.php:1968
+msgid ""
+"\tEnter font-family name here. Google Fonts are supported. \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\tFor example, if you choose \"Open Sans\" <a href="
+"\"http://www.google.com/fonts/\" target=\"_blank\">Google Font</a> \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\twith font-weight 400,500,600, enter <code>Open "
+"Sans:400,500,600</code>"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1835
+msgid "[Main] Font Size"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1838 includes/reg-vc/reg-vc.php:1908
+#: includes/reg-vc/reg-vc.php:1978
+msgid "<strong>Example:</strong> <code>14px</code>, <code>16px</code> ..."
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1848
+msgid "[Main] Font Letter Spacing"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1851 includes/reg-vc/reg-vc.php:1921
+#: includes/reg-vc/reg-vc.php:1991
+msgid "<strong>Example:</strong> <code>1px</code>, <code>0.1em</code> ..."
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1861
+msgid "[Main] Font Weight"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1868
+msgid "[Main] Font Style"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1875
+msgid "[Main] Text Transform"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1882
+msgid "[Main] Text Line Height"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1885 includes/reg-vc/reg-vc.php:1955
+#: includes/reg-vc/reg-vc.php:2025
+msgid "<strong>Example:</strong> <code>15px</code>, <code>1.55em</code> ..."
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1896
+msgid "Heading Font (Support Google font)"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1905
+msgid "[Heading] Font Size"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1918
+msgid "[Heading] Font Letter Spacing"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1931
+msgid "[Heading] Font Weight"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1938
+msgid "[Heading] Font Style"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1945
+msgid "[Heading] Text Transform"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1952
+msgid "[Heading] Line Height"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1966
+msgid "Meta Font (Support Google font)"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1975
+msgid "[Meta] Font Size"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:1988
+msgid "[Meta] Font Letter Spacing"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2001
+msgid "[Meta] Font Weight"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2008
+msgid "[Meta] Font Style"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2015
+msgid "[Meta] Text Transform"
+msgstr ""
+
+#: includes/reg-vc/reg-vc.php:2022
+msgid "[Meta] Line Height"
+msgstr ""
+
+#: sample-data/sample-data.php:57
+msgid "GRID CLASSIC"
+msgstr ""
+
+#: sample-data/sample-data.php:72
+msgid "GRID SPECIAL"
+msgstr ""
+
+#: sample-data/sample-data.php:87
+msgid "LIST CLASSIC 1"
+msgstr ""
+
+#: sample-data/sample-data.php:102
+msgid "LIST CLASSIC 2"
+msgstr ""
+
+#: sample-data/sample-data.php:117
+msgid "LIST SPECIAL"
+msgstr ""
+
+#: sample-data/sample-data.php:134
+msgid "CAROUSEL CLASSIC"
+msgstr ""
+
+#: sample-data/sample-data.php:150
+msgid "CAROUSEL SPECIAL"
+msgstr ""
+
+#: sample-data/sample-data.php:173
+msgid "Showcase"
+msgstr ""
+
+#: sample-data/sample-data.php:188
+msgid "HTML5 VIDEO AD"
+msgstr ""
+
+#: sample-data/sample-data.php:203
+msgid "GOOGLE ADSENSE"
+msgstr ""
+
+#: sample-data/sample-data.php:218
+msgid "IMAGE AD"
+msgstr ""
+
+#: sample-data/sample-data.php:233
+msgid "PLAY MODE: POPUP"
+msgstr ""
+
+#: sample-data/sample-data.php:248
+msgid "PLAY MODE: INLINE"
+msgstr ""
+
+#: sample-data/sample-data.php:261
+msgid "PLAY MODE: YOUTUBE"
+msgstr ""
+
+#: sample-data/sample-data.php:276
+msgid "INFINITE SCROLL"
+msgstr ""
+
+#: sample-data/sample-data.php:291
+msgid "LOAD MORE BUTTON"
+msgstr ""
+
+#: sample-data/sample-data.php:306
+msgid "PREV/NEXT BUTTON"
+msgstr ""
+
+#: sample-data/sample-data.php:321
+msgid "CUSTOM FONT &amp; COLOR"
+msgstr ""
+
+#: sample-data/sample-data.php:334
+msgid "Main Demo"
+msgstr ""

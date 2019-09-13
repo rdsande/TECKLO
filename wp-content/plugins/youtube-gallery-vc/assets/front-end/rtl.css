@@ -1,0 +1,106 @@
+.yt-defaults-videos-container{
+	direction:rtl;
+	text-align:right;
+}
+.yt-defaults-videos-container .yt-gallery-header-container .yt-gallery-header-content .yt-gallery-header-logo + .yt-gallery-header-body{
+	padding-left:0;
+	padding-right:15px;
+}
+.yt-defaults-videos-container .yt-gallery-header-container .yt-gallery-header-content + .yt-gallery-header-description{
+	margin-left:auto;
+	margin-right:290px;
+}
+.yt-defaults-videos-container .yt-gallery-header-container .yt-gallery-header-content + .yt-gallery-header-description.yt-gallery-no-sb-button{
+	margin-right:141px;
+}
+.yt-defaults-videos-container .yt-gallery-header-container .yt-gallery-header-content + .yt-gallery-header-description.yt-gallery-no-header-logo{
+	margin-right:141px;
+}
+.yt-defaults-videos-container .yt-gallery-header-container .yt-gallery-header-content + .yt-gallery-header-description.yt-gallery-no-sb-button-header-logo{
+	margin-left:0;
+	margin-right:0;
+}
+
+.yt-defaults-videos-container.yt-gallery-popup .yt-gallery-channel-info .yt-gallery-channel-brand, 
+.yt-defaults-videos-container.yt-gallery-popup .yt-gallery-channel-info .yt-gallery-channel-subs, 
+.yt-defaults-videos-container.yt-gallery-popup .yt-gallery-channel-info .yt-gallery-channel-metas {
+	float:right;
+}
+.yt-defaults-videos-container.yt-gallery-popup .yt-gallery-channel-info .yt-gallery-channel-metas{
+	float:left;
+}
+@media(max-width:567px){
+	.yt-defaults-videos-container.yt-gallery-popup .yt-gallery-channel-info .yt-gallery-channel-metas{
+		float:none;
+		text-align:right;
+	}
+}
+.yt-defaults-videos-container .yt-gallery-metas .yt-gallery-metas-wrap>* .fa{
+	display:inline-block;
+}
+.yt-defaults-videos-container .yt-gallery-header-container .yt-gallery-header-background .yt-gallery-ab-content{
+	right:auto;
+	left:5px;
+}
+.yt-defaults-videos-container.yt-gallery-popup .yt-gallery-comment-block .yt-gallery-comment-content .yt-gallery-comment-img, 
+.yt-defaults-videos-container.yt-gallery-popup .yt-gallery-comment-block .yt-gallery-comment-content .yt-gallery-comment-entry{
+	float:right;
+}
+.yt-defaults-videos-container.yt-gallery-popup .yt-gallery-comment-block .yt-gallery-comment-content .yt-gallery-comment-entry .yt-gallery-comment-author .yt-gallery-channel-link{
+	padding-right:0;
+	padding-left:10px;
+}
+.yt-defaults-videos-container.yt-gallery-popup .yt-gallery-channel-info .yt-gallery-channel-metas .yt-gallery-like-bar span,
+.yt-defaults-videos-container .yt-gallery-section-loading .yt-gallery-loading-bar-percent{
+	left:auto;
+	right:0;
+}
+.yt-defaults-videos-container .yt-gallery-button-control-style{
+	direction:ltr;
+}
+.yt-defaults-videos-container .yt-gallery-pagination-wrap .yt-gallery-loadmore-btn .yt-gallery-loadmore-dot>span, 
+.yt-defaults-videos-container .yt-gallery-pagination-wrap .yt-gallery-next .yt-gallery-loadmore-dot>span, 
+.yt-defaults-videos-container .yt-gallery-pagination-wrap .yt-gallery-prev .yt-gallery-loadmore-dot>span{
+	margin-left:0;
+	margin-right:4px;
+}
+.yt-defaults-videos-container .yt-gallery-pagination-wrap.yt-gallery-cr-style .yt-gallery-loadmore-dot span:first-child{
+	margin-right:0;
+}
+.yt-defaults-videos-container .yt-gallery-pagination-wrap.yt-gallery-cr-style .yt-gallery-next{
+	right:auto;
+	left:0;
+}
+.yt-defaults-videos-container .yt-gallery-pagination-wrap.yt-gallery-cr-style .yt-gallery-prev{
+	left:auto;
+	right:0;
+}
+.yt-defaults-videos-container .yt-gallery-pagination-wrap.yt-gallery-cr-style .yt-gallery-next i:before{
+	content:"\f104";
+}
+.yt-defaults-videos-container .yt-gallery-pagination-wrap.yt-gallery-cr-style .yt-gallery-prev i:before{
+	content:"\f105";
+}
+.yt-defaults-videos-container .yt-gallery-list.yt-gallery-list-classic-2 .yt-gallery-item:nth-child(even) .yt-gallery-entry-wrapper{
+	direction:ltr;
+}
+.yt-defaults-videos-container .yt-gallery-list.yt-gallery-list-classic-2 .yt-gallery-item:nth-child(even) .yt-gallery-entry-wrapper>*{
+	direction:rtl;
+}
+
+.yt-defaults-videos-container .yt-gallery-pagination-wrap .yt-gallery-next i.fa-angle-double-right{
+	display:inline-block;
+	margin-right:5px;
+	margin-left:0;
+}
+.yt-defaults-videos-container .yt-gallery-pagination-wrap .yt-gallery-next i.fa-angle-double-right:before{
+	content:"\f100";
+}
+.yt-defaults-videos-container .yt-gallery-pagination-wrap .yt-gallery-prev i.fa-angle-double-left{
+	display:inline-block;
+	margin-right:0;
+	margin-left:5px;	
+}
+.yt-defaults-videos-container .yt-gallery-pagination-wrap .yt-gallery-prev i.fa-angle-double-left:before{
+	content:"\f101";
+}
